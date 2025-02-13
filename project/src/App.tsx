@@ -17,7 +17,7 @@ function App() {
         <nav className="relative z-10 flex justify-between items-center px-8 py-6">
           <div className="flex items-center space-x-2">
             <Sprout className="h-8 w-8 text-green-400" />
-            <span className="text-2xl font-bold text-white">FarmFresh</span>
+            <span className="text-2xl font-bold text-white">Tirumala FarmFresh</span>
           </div>
           <div className="hidden md:flex space-x-8 text-white">
             <a href="#about" className="hover:text-green-400 transition">About</a>
@@ -99,15 +99,15 @@ function App() {
             <div>
               <div className="flex items-center mb-6">
                 <Phone className="h-6 w-6 text-green-500 mr-4" />
-                <span>(555) 123-4567</span>
+                <span>(+91)-8247425263 </span>
               </div>
               <div className="flex items-center mb-6">
                 <Mail className="h-6 w-6 text-green-500 mr-4" />
-                <span>contact@farmfresh.com</span>
+                <span>contact@tirumalafarmfresh.com</span>
               </div>
               <div className="flex items-center">
                 <MapPin className="h-6 w-6 text-green-500 mr-4" />
-                <span>123 Farm Road, Countryside, State 12345</span>
+                <span> Sarangapalli Agraharam Village, India, Andhra pardesh State 522414</span>
               </div>
             </div>
             <form className="space-y-4">
@@ -118,7 +118,7 @@ function App() {
               />
               <input
                 type="email"
-                placeholder="Your Email"
+                placeholder="tirumalaformfresh@gmail.com"
                 className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:border-green-500"
               />
               <textarea
@@ -140,7 +140,7 @@ function App() {
           <div>
             <div className="flex items-center space-x-2 mb-4">
               <Sprout className="h-6 w-6 text-green-400" />
-              <span className="text-xl font-bold">FarmFresh</span>
+              <span className="text-xl font-bold">Tirumala FarmFresh</span>
             </div>
             <p className="text-gray-400">Sustainable farming for a better tomorrow</p>
           </div>
